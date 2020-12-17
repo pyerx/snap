@@ -29,7 +29,7 @@
         "content-disposition": "^0.5.3",
         "content-type": "^1.0.4",
         "datatables-bulma": "^1.0.1",
-        "datatables.net": "^1.10.19",
+        "datatables.net": "^1.10.22",
         "dragscroll": "0.0.8",
         "font-awesome": "^4.7.0",
         "fuse.js": "^3.4.4",
